@@ -29,7 +29,7 @@ $ git clone https://github.com/tambunanprd/ArsipSystem.git
 $ chmod +x awipa.sh
 $ ./awipa.sh
 ```
-3. klik next seperti pada gambar
+3. klik next seperti pada gambar\
 ![](dokumentasi/install/1.jpg)
 ![](dokumentasi/install/2.jpg)
 ![](dokumentasi/install/4.jpg)
