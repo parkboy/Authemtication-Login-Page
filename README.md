@@ -17,6 +17,7 @@ Aplikasi ditujukan untuk penyimpanan file pada sebuah organisasi dengan tujuan u
 ## Requirements
 - download xampp atau lampp
 - jaringan internet
+- Email Google (gmail)
 
 ## Installasi
 1. download awipa.sh pada github
@@ -28,7 +29,7 @@ $ git clone https://github.com/tambunanprd/ArsipSystem.git
 $ chmod +x awipa.sh
 $ ./awipa.sh
 ```
-3. klik next seperti pada gambar\
+3. klik next seperti pada gambar
 ![](dokumentasi/install/1.jpg)
 ![](dokumentasi/install/2.jpg)
 ![](dokumentasi/install/4.jpg)
@@ -40,7 +41,7 @@ $ ./awipa.sh
 
 ### Registrasi
 jika anda belum memiliki akun maka lakukan registrasi dengan melakukan klik pada tulisan di bawah tombol login\
-![](dokumentasi/registrasi/1a.jpg)
+![](dokumentasi/registrasi/1.jpg)
 1. masukkan email dan password yang ingin anda daftarkan, lalu klik send code\
 ![](dokumentasi/registrasi/2.jpg)
 2. buka email yang kamu daftarkan untuk mendapatkan kode otp\
@@ -77,7 +78,10 @@ pada fitur ini *user* dapat melakukan penyimpanan file pada aplikasi\
 #### Download
 pada fitur ini *user* dapat mendownload kembali file yang pernah di upload pada aplikasi\
 
-#### Uninstall
+#### Logout
+*user* dapat melakukan logout pada aplikasi setelah melakukan login.
+
+### Uninstall
 dapat dilakukan uninstall aplikasi dengan cara masuk ke folder hasil instalasi\
 ```c
 $ ./uninstall
